@@ -2,7 +2,7 @@
 	"task": [
 		{
 			"check": false,
-			"title": "Doit 社内動作確認",
+			"title": "Todo 社内動作確認",
 			"work": false,
 			"pri": true,
 			"date": "2017/07/18",
