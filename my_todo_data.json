@@ -4,7 +4,8 @@
 			"check": false,
 			"title": "shanai 社内動作確認",
 			"work": false,
-			"pri": false,
+			"pri": true,
+			"date": "2017/07/18",
 			"detail": []
 		}
 	]
