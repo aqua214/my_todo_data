@@ -2,7 +2,7 @@
 	"task": [
 		{
 			"check": false,
-			"title": "shanai sh",
+			"title": "shanai 社内動作確認",
 			"work": false,
 			"pri": false,
 			"detail": []
