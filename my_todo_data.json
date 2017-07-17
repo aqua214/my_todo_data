@@ -1,7 +1,7 @@
 {
 	"task": [
 		{
-			"check": false,
+			"check": true,
 			"title": "Todo 社内動作確認",
 			"work": false,
 			"pri": true,
