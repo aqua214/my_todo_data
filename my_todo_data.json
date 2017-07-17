@@ -10,9 +10,12 @@
 		},
 		{
 			"check": false,
-			"work": false,
+			"title": "test",
+			"work": true,
 			"pri": false,
-			"detail": []
+			"detail": [
+				"テスト"
+			]
 		}
 	]
 }
