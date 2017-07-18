@@ -26,6 +26,12 @@
 			"pri": false,
 			"date": "2017/07/24",
 			"detail": []
+		},
+		{
+			"check": false,
+			"work": false,
+			"pri": false,
+			"detail": []
 		}
 	]
 }
