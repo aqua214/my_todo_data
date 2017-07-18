@@ -17,6 +17,12 @@
 			"detail": [
 				"参照url：https://mavo.io/docs/storage/"
 			]
+		},
+		{
+			"check": false,
+			"work": false,
+			"pri": false,
+			"detail": []
 		}
 	]
 }
