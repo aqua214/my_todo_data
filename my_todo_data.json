@@ -29,9 +29,13 @@
 		},
 		{
 			"check": false,
+			"title": "Adobe XD Lesson (Net book)",
 			"work": false,
 			"pri": false,
-			"detail": []
+			"date": "2017/07/19",
+			"detail": [
+				"動作確認も兼ねる"
+			]
 		}
 	]
 }
