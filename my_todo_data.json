@@ -13,7 +13,9 @@
 			"title": "Dropboxを保存先に指定",
 			"work": false,
 			"pri": true,
-			"detail": []
+			"detail": [
+				"参照url：https://mavo.io/docs/storage/"
+			]
 		}
 	]
 }
