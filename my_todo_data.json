@@ -20,7 +20,8 @@
 		},
 		{
 			"check": false,
-			"work": false,
+			"title": "おすすめ情報8月2回 7/24アップ",
+			"work": true,
 			"pri": false,
 			"detail": []
 		}
