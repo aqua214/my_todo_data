@@ -2,6 +2,16 @@
 	"task": [
 		{
 			"check": false,
+			"title": "おすすめ情報8月2回 7/24アップ",
+			"work": true,
+			"pri": false,
+			"date": "2017/07/24",
+			"detail": [
+				"作業済。校正確認待ち。"
+			]
+		},
+		{
+			"check": false,
 			"title": "Adobe XD Lesson (Net book)",
 			"work": false,
 			"pri": true,
@@ -20,14 +30,6 @@
 				"参照url：https://mavo.io/docs/storage/",
 				"11:00失敗。再度設定予定。"
 			]
-		},
-		{
-			"check": false,
-			"title": "おすすめ情報8月2回 7/24アップ",
-			"work": true,
-			"pri": false,
-			"date": "2017/07/24",
-			"detail": []
 		}
 	]
 }
