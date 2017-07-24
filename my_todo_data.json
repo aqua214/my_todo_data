@@ -1,7 +1,7 @@
 {
 	"task": [
 		{
-			"check": false,
+			"check": true,
 			"title": "おすすめ情報8月2回 7/24アップ",
 			"work": true,
 			"pri": false,
