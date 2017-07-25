@@ -23,8 +23,10 @@
 		},
 		{
 			"check": false,
-			"work": false,
+			"title": "京都府市町村厚生会更新作業",
+			"work": true,
 			"pri": false,
+			"date": "2017/07/26",
 			"detail": []
 		}
 	],
