@@ -2,6 +2,16 @@
 	"task": [
 		{
 			"check": false,
+			"title": "京都府市町村厚生会更新作業",
+			"work": true,
+			"pri": false,
+			"date": "2017/07/26",
+			"detail": [
+				"作業は7/26に行なう。ID,Password等要確認。"
+			]
+		},
+		{
+			"check": false,
 			"title": "Adobe XD Lesson (Net book)",
 			"work": false,
 			"pri": true,
@@ -19,16 +29,6 @@
 			"detail": [
 				"参照url：https://mavo.io/docs/storage/",
 				"11:00失敗。再度設定予定。"
-			]
-		},
-		{
-			"check": false,
-			"title": "京都府市町村厚生会更新作業",
-			"work": true,
-			"pri": false,
-			"date": "2017/07/26",
-			"detail": [
-				"作業は7/26に行なう。ID,Password等要確認。"
 			]
 		}
 	],
