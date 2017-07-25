@@ -34,8 +34,9 @@
 		{
 			"check": false,
 			"title": "埼玉協同病院 ふれあい記事掲載",
-			"work": false,
+			"work": true,
 			"pri": false,
+			"date": "2017/07/31",
 			"detail": []
 		}
 	],
