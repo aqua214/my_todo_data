@@ -2,16 +2,6 @@
 	"task": [
 		{
 			"check": false,
-			"title": "京都府市町村厚生会更新作業",
-			"work": true,
-			"pri": false,
-			"date": "2017/07/26",
-			"detail": [
-				"作業は7/26に行なう。ID,Password等要確認。"
-			]
-		},
-		{
-			"check": false,
 			"title": "埼玉協同病院 ふれあい記事掲載",
 			"work": true,
 			"pri": false,
