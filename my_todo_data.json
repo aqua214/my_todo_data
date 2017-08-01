@@ -2,6 +2,14 @@
 	"task": [
 		{
 			"check": false,
+			"title": "MakeshopアクセスデータBackUp",
+			"work": false,
+			"pri": false,
+			"date": "毎月頭",
+			"detail": []
+		},
+		{
+			"check": false,
 			"title": "Adobe XD Lesson (Net book)",
 			"work": false,
 			"pri": true,
@@ -20,14 +28,6 @@
 				"参照url：https://mavo.io/docs/storage/",
 				"11:00失敗。再度設定予定。"
 			]
-		},
-		{
-			"check": false,
-			"title": "MakeshopアクセスデータBackUp",
-			"work": false,
-			"pri": false,
-			"date": "毎月頭",
-			"detail": []
 		}
 	],
 	"memo": [
