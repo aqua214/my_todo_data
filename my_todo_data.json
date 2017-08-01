@@ -20,6 +20,12 @@
 				"参照url：https://mavo.io/docs/storage/",
 				"11:00失敗。再度設定予定。"
 			]
+		},
+		{
+			"check": false,
+			"work": false,
+			"pri": false,
+			"detail": []
 		}
 	],
 	"memo": [
