@@ -1,7 +1,7 @@
 {
 	"task": [
 		{
-			"check": false,
+			"check": true,
 			"title": "MakeshopアクセスデータBackUp",
 			"work": false,
 			"pri": false,
