@@ -20,9 +20,12 @@
 		},
 		{
 			"check": false,
+			"title": "きかんしコムオフィシャルサイトリニューアル",
 			"work": false,
 			"pri": false,
-			"detail": []
+			"detail": [
+				"エフェクト追加"
+			]
 		}
 	],
 	"memo": [
