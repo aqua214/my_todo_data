@@ -17,6 +17,12 @@
 			"detail": [
 				"動作確認も兼ねる"
 			]
+		},
+		{
+			"check": false,
+			"work": false,
+			"pri": false,
+			"detail": []
 		}
 	],
 	"memo": [
