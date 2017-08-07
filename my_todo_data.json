@@ -23,9 +23,16 @@
 			"title": "きかんしコムオフィシャルサイトリニューアル",
 			"work": false,
 			"pri": false,
+			"date": "2017/0810",
 			"detail": [
 				"エフェクト追加"
 			]
+		},
+		{
+			"check": false,
+			"work": false,
+			"pri": false,
+			"detail": []
 		}
 	],
 	"memo": [
