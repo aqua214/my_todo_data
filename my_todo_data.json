@@ -2,6 +2,16 @@
 	"task": [
 		{
 			"check": false,
+			"title": "きかんしコムオフィシャルサイトリニューアル",
+			"work": false,
+			"pri": false,
+			"date": "2017/08/10",
+			"detail": [
+				"エフェクト追加、CSS注意（本サーバーを反映）"
+			]
+		},
+		{
+			"check": false,
 			"title": "MakeshopアクセスデータBackUp",
 			"work": false,
 			"pri": false,
@@ -16,16 +26,6 @@
 			"date": "2017/07/23",
 			"detail": [
 				"動作確認も兼ねる"
-			]
-		},
-		{
-			"check": false,
-			"title": "きかんしコムオフィシャルサイトリニューアル",
-			"work": false,
-			"pri": false,
-			"date": "2017/08/10",
-			"detail": [
-				"エフェクト追加、CSS注意（本サーバーを反映）"
 			]
 		}
 	],
