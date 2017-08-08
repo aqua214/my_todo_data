@@ -3,7 +3,7 @@
 		{
 			"check": false,
 			"title": "MakeshopアクセスデータBackUp",
-			"work": false,
+			"work": true,
 			"pri": false,
 			"date": "毎月頭",
 			"detail": []
@@ -31,7 +31,7 @@
 		{
 			"check": false,
 			"title": "橘 教養教育本アップ",
-			"work": false,
+			"work": true,
 			"pri": false,
 			"detail": []
 		}
