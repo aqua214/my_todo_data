@@ -2,6 +2,14 @@
 	"task": [
 		{
 			"check": false,
+			"title": "橘 教養教育本アップ",
+			"work": true,
+			"pri": false,
+			"date": "20170709",
+			"detail": []
+		},
+		{
+			"check": false,
 			"title": "MakeshopアクセスデータBackUp",
 			"work": true,
 			"pri": false,
@@ -27,14 +35,6 @@
 			"detail": [
 				"動作確認も兼ねる"
 			]
-		},
-		{
-			"check": false,
-			"title": "橘 教養教育本アップ",
-			"work": true,
-			"pri": false,
-			"date": "20170709",
-			"detail": []
 		}
 	],
 	"memo": [
