@@ -1,7 +1,7 @@
 {
 	"task": [
 		{
-			"check": false,
+			"check": true,
 			"title": "橘 教養教育本アップ",
 			"work": true,
 			"pri": false,
