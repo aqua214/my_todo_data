@@ -1,19 +1,19 @@
 {
 	"task": [
 		{
-			"check": true,
-			"title": "橘 教養教育本アップ",
-			"work": true,
-			"pri": false,
-			"date": "2017/08/09",
-			"detail": []
-		},
-		{
 			"check": false,
 			"title": "MakeshopアクセスデータBackUp",
 			"work": true,
 			"pri": false,
 			"date": "毎月頭",
+			"detail": []
+		},
+		{
+			"check": true,
+			"title": "橘 教養教育本アップ",
+			"work": true,
+			"pri": false,
+			"date": "2017/08/09",
 			"detail": []
 		},
 		{
