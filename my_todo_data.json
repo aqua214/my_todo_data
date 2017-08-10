@@ -28,22 +28,22 @@
 		},
 		{
 			"check": false,
-			"title": "Adobe XD Lesson (Net book)",
-			"work": false,
-			"pri": true,
-			"date": "2017/07/23",
-			"detail": [
-				"動作確認も兼ねる"
-			]
-		},
-		{
-			"check": false,
 			"title": "コープCSネット更新",
 			"work": false,
 			"pri": false,
 			"date": "2017/08/12",
 			"detail": [
 				"おすすめ8月5回？9月1回？"
+			]
+		},
+		{
+			"check": false,
+			"title": "Adobe XD Lesson (Net book)",
+			"work": false,
+			"pri": true,
+			"date": "2017/07/23",
+			"detail": [
+				"動作確認も兼ねる"
 			]
 		}
 	],
