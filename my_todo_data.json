@@ -2,6 +2,16 @@
 	"task": [
 		{
 			"check": false,
+			"title": "コープCSネット更新",
+			"work": false,
+			"pri": false,
+			"date": "2017/08/12",
+			"detail": [
+				"おすすめ8月5回？9月1回？"
+			]
+		},
+		{
+			"check": false,
 			"title": "MakeshopアクセスデータBackUp",
 			"work": true,
 			"pri": false,
@@ -24,16 +34,6 @@
 			"date": "2017/08/10",
 			"detail": [
 				"エフェクト追加、CSS注意（本サーバーを反映）"
-			]
-		},
-		{
-			"check": false,
-			"title": "コープCSネット更新",
-			"work": false,
-			"pri": false,
-			"date": "2017/08/12",
-			"detail": [
-				"おすすめ8月5回？9月1回？"
 			]
 		},
 		{
