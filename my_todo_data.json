@@ -38,6 +38,7 @@
 		},
 		{
 			"check": false,
+			"title": "コープCSネット更新",
 			"work": false,
 			"pri": false,
 			"detail": []
