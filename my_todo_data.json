@@ -3,7 +3,7 @@
 		{
 			"check": false,
 			"title": "コープCSネット更新",
-			"work": false,
+			"work": true,
 			"pri": false,
 			"date": "2017/08/12",
 			"detail": [
