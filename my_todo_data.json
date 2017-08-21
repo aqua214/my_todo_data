@@ -30,22 +30,22 @@
 		},
 		{
 			"check": false,
-			"title": "Adobe XD Lesson (Net book)",
-			"work": false,
-			"pri": true,
-			"date": "2017/07/23",
-			"detail": [
-				"動作確認も兼ねる"
-			]
-		},
-		{
-			"check": false,
 			"title": "しっかり入門！きちんと身につくIllustratorチュートリアル、つくり方37個まとめ",
 			"work": false,
 			"pri": true,
 			"date": "2017/0827",
 			"detail": [
 				"http://photoshopvip.net/103661"
+			]
+		},
+		{
+			"check": false,
+			"title": "Adobe XD Lesson (Net book)",
+			"work": false,
+			"pri": true,
+			"date": "2017/07/23",
+			"detail": [
+				"動作確認も兼ねる"
 			]
 		}
 	],
